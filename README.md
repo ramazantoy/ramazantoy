@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://github-readme-stats.vercel.app/api?username=ramazantoy&theme=dark&show_icons=true
+![Ramazan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramazantoy&theme=merko&show_icons=true)
 <!--
 **ramazantoy/ramazantoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
