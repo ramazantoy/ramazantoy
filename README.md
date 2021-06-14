@@ -5,6 +5,7 @@ I am a person who generally enjoys success in school life in the last minutes or
  happy while writing code, who does not hesitate to come to the aid of his friends, who does not have
 difficulty in learning new things, and who wants to gain himself a task responsibility skill and internal
 discipline in the routine work of life. I am ready to work by obtaining the knowledge and experience Ihave, if necessary, the information I do not have.
+My work videos : https://drive.google.com/drive/folders/1f_80YH1n2h-79UF9vRy_37xUG4E4xBzm?usp=sharing
 
 
 
