@@ -10,7 +10,6 @@ Game Developer
 --------------
 
 * 🌍  I'm based in İstanbul/Turkey
-* 🖥️  See my portfolio at [My Work Videos](http://drive.google.com/drive/u/0/folders/1f_80YH1n2h-79UF9vRy_37xUG4E4xBzm)
 * ✉️  You can contact me at [ramcotoy06@gmail.com](mailto:ramcotoy06@gmail.com)
 * 🧠  I'm learning Unity,C#
 
