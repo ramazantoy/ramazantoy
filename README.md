@@ -6,12 +6,11 @@
 Hi 👋 My name is Ramazan
 ========================
 
-Game Developer
---------------
+
 
 * 🌍  I'm based in İstanbul/Turkey
 * ✉️  You can contact me at [ramcotoy06@gmail.com](mailto:ramcotoy06@gmail.com)
-* 🧠  I'm learning Unity,C#
+* 🧠  I'm learning Unity, C# and Asp.Net Core 
 
 ### Skills
 
