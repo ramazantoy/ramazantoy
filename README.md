@@ -1,7 +1,5 @@
-  ![Alt Text](https://media.giphy.com/media/Iwf310FeU3MAyQ6J45/giphy.gif)
-
-
-
+  ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJoeXRtNng0ZXhlZGRiMXUwczY2ZHd3ODYyMHJjY2F0dDVqa3p5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Iwf310FeU3MAyQ6J45/giphy.gif)
+  ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnNoMmNodWtjZWFnOHd5cGJ2c3psNTBvbWV1NDNscno3NXk0ajhqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5ebdManLmsOwkcmeTl/giphy.gif)
 
 Hi 👋 My name is Ramazan
 ========================
