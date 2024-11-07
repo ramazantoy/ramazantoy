@@ -1,7 +1,7 @@
 Hi 👋 My name is Ramazan
 ========================
 
-* 🌍  I'm based in İstanbul/Turkey
+* 🌍  I'm based in Ankara/Turkey
 * ✉️  You can contact me at [ramcotoy06@gmail.com](mailto:ramcotoy06@gmail.com)
 * 🧠  I have 3 years of professional experience working with Unity.
 * 💪  Currently, I'm broadening my expertise in backend development by diving deeper into .NET Core.
